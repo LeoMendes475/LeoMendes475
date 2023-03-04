@@ -1,4 +1,4 @@
-## Oii eu sou o Leonardo Mendes!
+## Oi eu sou o Leonardo Mendes!
 
 <div align="center">
   <a href="https://github.com/LeoMendes475">
